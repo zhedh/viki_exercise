@@ -1,0 +1,11 @@
+node_modules
+.vscode
+.DS_Store
+dist
+dist-ssr
+*.local
+/.history/
+yarn-error.log
+yarn.lock
+pnpm-lock.yaml
+.pnpm-debug.log
